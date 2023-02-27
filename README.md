@@ -2,7 +2,7 @@
 
 ## Demo-Preview
 
-[The page link](https://tarekelkanaria.github.io/1xbet-page/)
+[The page link](https://tarekelkanaria.github.io/bet365/)
 
 ## Table of contents
 
